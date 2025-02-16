@@ -8,3 +8,5 @@ Then that child interface is called from the child class to deliver that capabil
 This pattern helps to define multiple algorithm for the task and we can select any algorithm
 depending on the situation.
 https://refactoring.guru/design-patterns/strategy
+
+![img.png](img.png)
